@@ -7,11 +7,12 @@ sections:
     section_id: hero_section
     background_image: images/64495816-4F3F-440C-809F-E4E6598B7328.png
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Startup Supply Shop
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      Thoughtfully curated high-impact tech solutions to empower, uplift and
+      make your daily startup life a little bit more wonderful.
     actions:
       - title: See all items
         url: /store

@@ -14,7 +14,7 @@ sections:
       Thoughtfully curated high-impact tech solutions to empower, uplift and
       make your daily startup life a little bit more wonderful.
     actions:
-      - title: 'Start '
+      - title: Start shopping
         url: /store
         arrow: true
         style: primary

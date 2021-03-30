@@ -3,10 +3,7 @@ layout: product
 id: '1'
 price: '49.40'
 title: App-in-a-Box
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+description: 'Launch your '
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/FFDF4043-683D-4C47-8C51-AECC0525F844.png
 featured: true

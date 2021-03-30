@@ -1,7 +1,6 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
 title: App-in-a-Box
 description: 'Launch your custom web app '
 default_thumbnail_image: images/plant1.jpg

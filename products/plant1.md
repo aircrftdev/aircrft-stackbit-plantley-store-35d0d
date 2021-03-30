@@ -8,7 +8,7 @@ description: >-
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
 default_thumbnail_image: images/plant1.jpg
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/FFDF4043-683D-4C47-8C51-AECC0525F844.png
 featured: true
 order: 1
 category: category/bigplants.md

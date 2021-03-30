@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 favicon: images/favicon.png
-logo_dark: images/logo.svg
+logo_dark: images/13F2CA89-4087-473C-BBD2-54F5252724BB.png
 logo_light: images/E593E6C9-BD46-4419-88C2-E84FC9E82DE1.png
 hamburger_background_image: /images/leaf-light-grey.svg
 bg_image_primary: /images/header.jpg

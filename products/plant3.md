@@ -8,7 +8,7 @@ default_original_image: images/D30A1135-7918-4AD6-87FE-BCE502639D14.png
 featured: true
 order: 3
 category: category/cactuses.md
-description: A complete blogging system
+description: A complete blogging system built first start ups
 ---
 
 # Curabitur eu tempor

@@ -16,7 +16,7 @@ sections:
     actions:
       - title: Start shopping
         url: /store
-        arrow: true
+        arrow: false
         style: primary
   - type: featured_products_section
     section_id: best_sellers_section

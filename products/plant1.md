@@ -8,7 +8,7 @@ default_original_image: images/FFDF4043-683D-4C47-8C51-AECC0525F844.png
 featured: true
 order: 1
 category: category/bigplants.md
-price: 49.99month
+price: 49.99 / mo
 ---
 
 # Nulla suscipit

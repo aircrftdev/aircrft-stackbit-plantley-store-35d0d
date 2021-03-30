@@ -6,7 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/97A8A55F-E597-45CB-A06C-FDCDBFB65C61.png
-    background_image_opacity: 65
+    background_image_opacity: 0
     content: >
       # Startup Supply Shop
 

@@ -1,5 +1,5 @@
 ---
-title: By Aircrft
+title: By
 layout: category
 order: 2
 ---

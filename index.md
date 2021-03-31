@@ -11,7 +11,7 @@ sections:
       # Aircrft Supply Co.
 
 
-      Human curated high impact tech products to make your life a little bit
+      Human curated high-impact tech products to make your life a little bit
       more wonderful today
     actions:
       - title: Start shopping

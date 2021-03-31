@@ -7,7 +7,7 @@ sections:
   - type: featured_products_section
     section_id: featured_products_section
     title: Best sellers
-    icon: false
+    icon: true
     featured_products:
       - products/plant1.md
       - products/plant3.md

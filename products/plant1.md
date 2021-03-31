@@ -4,7 +4,7 @@ id: '1'
 title: App-in-a-Box
 description: 'Launch your custom web app '
 default_thumbnail_image: images/38CCEE4F-F188-4603-A07C-74CB8548E7E4.png
-default_original_image: images/FFDF4043-683D-4C47-8C51-AECC0525F844.png
+default_original_image: images/15F4B4BB-DC75-4123-B346-30F46BB7D261.png
 featured: true
 order: 1
 category: category/bigplants.md

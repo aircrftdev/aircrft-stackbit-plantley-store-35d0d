@@ -13,7 +13,7 @@ sections:
       - products/plant3.md
       - products/plant5.md
       - products/plant7.md
-    light_title: false
+    light_title: true
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer

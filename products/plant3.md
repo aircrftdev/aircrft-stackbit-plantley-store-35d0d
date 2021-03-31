@@ -3,7 +3,7 @@ layout: product
 id: '3'
 price: '150.00'
 title: Blog by Aircrft
-default_thumbnail_image: images/1FDEFA95-B32D-4C96-8E9C-91AFA899F441.png
+default_thumbnail_image: images/FCBBADD8-17AD-4301-94DC-100F7C598995.png
 default_original_image: images/D30A1135-7918-4AD6-87FE-BCE502639D14.png
 featured: true
 order: 3

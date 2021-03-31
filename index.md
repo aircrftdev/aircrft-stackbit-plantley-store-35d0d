@@ -33,6 +33,7 @@ sections:
     featured_categories:
       - category/bigplants.md
       - category/cactuses.md
+      - category/category-p2bf31eo8.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials

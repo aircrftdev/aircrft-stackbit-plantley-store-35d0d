@@ -1,5 +1,5 @@
 ---
 layout: category
 order: 2
-title: Startup stacks
+title: Startup Apps stacks
 ---

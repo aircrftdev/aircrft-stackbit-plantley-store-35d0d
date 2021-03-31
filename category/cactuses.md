@@ -1,5 +1,5 @@
 ---
-title: By
+title: Stacks
 layout: category
 order: 2
 ---

@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: Moonshots
 layout: category
 order: 4
 ---

@@ -8,11 +8,11 @@ sections:
     background_image: images/6BC06FCB-E624-4A46-B307-8290A6C225E8.png
     background_image_opacity: 100
     content: >
-      # Startup Supply Shop
+      # Aircrft Startup Supply Co.
 
 
-      Thoughtfully curated high-impact tech solutions to empower, uplift and
-      make your daily startup life a little bit more wonderful.
+      High-impact tech solutions to empower, uplift and make your daily life a
+      little bit more wonderful.
     actions:
       - title: Start shopping
         url: /store

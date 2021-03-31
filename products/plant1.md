@@ -3,7 +3,7 @@ layout: product
 id: '1'
 title: App-in-a-Box
 description: 'Launch your custom web app '
-default_thumbnail_image: images/2A1BC398-3BDE-4252-A289-9CC84E3FE78E.png
+default_thumbnail_image: images/38CCEE4F-F188-4603-A07C-74CB8548E7E4.png
 default_original_image: images/FFDF4043-683D-4C47-8C51-AECC0525F844.png
 featured: true
 order: 1

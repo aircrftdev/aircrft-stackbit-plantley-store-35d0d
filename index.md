@@ -6,7 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/28515792-6A57-4D49-A167-D861EB5B94A1.png
-    background_image_opacity: 0
+    background_image_opacity: 100
     content: >
       # Aircrft Startup Supply Co.
 

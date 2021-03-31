@@ -13,6 +13,7 @@ sections:
       - products/plant3.md
       - products/plant5.md
       - products/plant7.md
+      - products/product-4089qbpek.md
     light_title: false
   - type: promotion_section
     section_id: promotion_section

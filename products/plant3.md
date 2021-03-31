@@ -2,7 +2,7 @@
 layout: product
 id: '3'
 price: '150.00'
-title: Blog by Aircrft
+title: Blog-in-a-Box
 default_thumbnail_image: images/FCBBADD8-17AD-4301-94DC-100F7C598995.png
 default_original_image: images/973F8371-4B8D-4E75-8C0D-2775B0814DCB.png
 featured: true

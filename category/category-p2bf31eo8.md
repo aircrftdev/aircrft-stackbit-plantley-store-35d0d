@@ -1,5 +1,5 @@
 ---
-order: 3
+order: 2
 layout: category
 title: Sites
 ---

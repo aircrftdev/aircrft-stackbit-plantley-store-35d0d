@@ -25,6 +25,7 @@ main_menu:
   - title: FAQ
     url: /faq
     style: link
+    arrow: true
   - title: lorem-ipsum
     url: lorem-ipsum
     style: primary

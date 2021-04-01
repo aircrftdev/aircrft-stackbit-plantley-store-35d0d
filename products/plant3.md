@@ -7,7 +7,6 @@ default_thumbnail_image: images/EE1D5B41-EC84-4609-B92D-C4355BDF9FB6.png
 default_original_image: images/973F8371-4B8D-4E75-8C0D-2775B0814DCB.png
 featured: true
 order: 3
-category: category/cactuses.md
 description: A complete blogging system built for startups
 ---
 

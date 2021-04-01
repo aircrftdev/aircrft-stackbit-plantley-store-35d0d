@@ -14,7 +14,7 @@ bg_image_secondary: images/3A7AE3D7-C630-4D1B-A4FE-7D19072ED443.jpeg
 bg_image_product: images/8810A52C-83C6-4A59-A356-E70808C34915.png
 snipcart_api_key: MDA5MzhhMzctM2NhNS00MzJiLTk2OTctYWVkNzZhODg0ZjNiNjM3NTI3MzAyMDQ1NzE0NzA4
 footer_text: Copyright 2021 Aircrft Supply Co. All rights reserved.
-palette: green
+palette: cyan
 main_menu:
   - title: Store
     url: /store
